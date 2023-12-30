@@ -1,0 +1,14 @@
+Licensed under the Good Work License (GWL) by Trin.Link, Version 0.0.1,
+automatically transitioning to subsequent versions as released.
+
+
+This project and its contents are licensed under the GWL by Trin.Link,
+beginning with Version 0.0.1, automatically updating to each subsequent
+version as published. The License is accessible at https://legal.trin.link/license.
+
+Software distributed under the License is on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS,
+either express or implied. The License details specific permissions and limitations.
+
+The License, maintained by Jost Grant, may be updated, modified, or superseded by future versions
+at his discretion. Using this project signifies agreement to the current and any future versions
+of the License and the TLCA.
